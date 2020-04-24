@@ -1,4 +1,4 @@
-# Using Python for collet favorite stock
+# Using Python for collect favorite stock
 Created to know easily up or down at porcent
 
 # Requeriments
