@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-acoes = ['ITSA4.SA', 'FLRY3.SA', 'TOTS3.SA', 'B3SA3.SA', 'ENBR3.SA', 'HGLG11.SA', 'BMLC11B.SA']
+acoes = ['ITSA4.SA', 'FLRY3.SA', 'TOTS3.SA', 'B3SA3.SA', 'ENBR3.SA', 'HGLG11.SA', 'KNRI11.SA']
 
 url = 'https://br.financas.yahoo.com/quote/'
 
