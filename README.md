@@ -1,4 +1,4 @@
-# Using Python for collect favorite stock
+# Using Python for collect favorite shares
 Created to know easily up or down at porcent
 
 # Requeriments
